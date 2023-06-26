@@ -83,4 +83,6 @@ Replace "/content/path/" with the actual path
 
 It calculates and visualizes the precise percentage distribution of each room class within the segmentation map, offering valuable insights. Also the code leverages the EasyOCR library to perform accurate optical character recognition on an image file, enabling the extraction of textual information for further analysis. Overall, this code demonstrates a professional approach to floor plan segmentation, visualization, and information extraction, contributing to improved understanding and interpretation of floor plan data.
 
+![Alt Text](image_url)
+
 
